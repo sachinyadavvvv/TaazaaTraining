@@ -1,0 +1,16 @@
+C:\arrayAssignment\arrayAssignment\bin\Debug\net5.0\arrayAssignment.exe
+C:\arrayAssignment\arrayAssignment\bin\Debug\net5.0\arrayAssignment.deps.json
+C:\arrayAssignment\arrayAssignment\bin\Debug\net5.0\arrayAssignment.runtimeconfig.json
+C:\arrayAssignment\arrayAssignment\bin\Debug\net5.0\arrayAssignment.runtimeconfig.dev.json
+C:\arrayAssignment\arrayAssignment\bin\Debug\net5.0\arrayAssignment.dll
+C:\arrayAssignment\arrayAssignment\bin\Debug\net5.0\ref\arrayAssignment.dll
+C:\arrayAssignment\arrayAssignment\bin\Debug\net5.0\arrayAssignment.pdb
+C:\arrayAssignment\arrayAssignment\obj\Debug\net5.0\arrayAssignment.csproj.AssemblyReference.cache
+C:\arrayAssignment\arrayAssignment\obj\Debug\net5.0\arrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\arrayAssignment\arrayAssignment\obj\Debug\net5.0\arrayAssignment.AssemblyInfoInputs.cache
+C:\arrayAssignment\arrayAssignment\obj\Debug\net5.0\arrayAssignment.AssemblyInfo.cs
+C:\arrayAssignment\arrayAssignment\obj\Debug\net5.0\arrayAssignment.csproj.CoreCompileInputs.cache
+C:\arrayAssignment\arrayAssignment\obj\Debug\net5.0\arrayAssignment.dll
+C:\arrayAssignment\arrayAssignment\obj\Debug\net5.0\ref\arrayAssignment.dll
+C:\arrayAssignment\arrayAssignment\obj\Debug\net5.0\arrayAssignment.pdb
+C:\arrayAssignment\arrayAssignment\obj\Debug\net5.0\arrayAssignment.genruntimeconfig.cache

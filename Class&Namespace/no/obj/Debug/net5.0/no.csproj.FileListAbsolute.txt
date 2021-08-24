@@ -1,0 +1,12 @@
+C:\practice\no\bin\Debug\net5.0\no.deps.json
+C:\practice\no\bin\Debug\net5.0\no.dll
+C:\practice\no\bin\Debug\net5.0\ref\no.dll
+C:\practice\no\bin\Debug\net5.0\no.pdb
+C:\practice\no\obj\Debug\net5.0\no.csproj.AssemblyReference.cache
+C:\practice\no\obj\Debug\net5.0\no.GeneratedMSBuildEditorConfig.editorconfig
+C:\practice\no\obj\Debug\net5.0\no.AssemblyInfoInputs.cache
+C:\practice\no\obj\Debug\net5.0\no.AssemblyInfo.cs
+C:\practice\no\obj\Debug\net5.0\no.csproj.CoreCompileInputs.cache
+C:\practice\no\obj\Debug\net5.0\no.dll
+C:\practice\no\obj\Debug\net5.0\ref\no.dll
+C:\practice\no\obj\Debug\net5.0\no.pdb

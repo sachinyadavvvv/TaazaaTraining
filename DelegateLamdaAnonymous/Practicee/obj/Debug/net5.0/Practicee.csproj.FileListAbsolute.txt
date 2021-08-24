@@ -1,0 +1,16 @@
+C:\Practicee\Practicee\obj\Debug\net5.0\Practicee.csproj.AssemblyReference.cache
+C:\Practicee\Practicee\obj\Debug\net5.0\Practicee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practicee\Practicee\obj\Debug\net5.0\Practicee.AssemblyInfoInputs.cache
+C:\Practicee\Practicee\obj\Debug\net5.0\Practicee.AssemblyInfo.cs
+C:\Practicee\Practicee\obj\Debug\net5.0\Practicee.csproj.CoreCompileInputs.cache
+C:\Practicee\Practicee\bin\Debug\net5.0\Practicee.exe
+C:\Practicee\Practicee\bin\Debug\net5.0\Practicee.deps.json
+C:\Practicee\Practicee\bin\Debug\net5.0\Practicee.runtimeconfig.json
+C:\Practicee\Practicee\bin\Debug\net5.0\Practicee.runtimeconfig.dev.json
+C:\Practicee\Practicee\bin\Debug\net5.0\Practicee.dll
+C:\Practicee\Practicee\bin\Debug\net5.0\ref\Practicee.dll
+C:\Practicee\Practicee\bin\Debug\net5.0\Practicee.pdb
+C:\Practicee\Practicee\obj\Debug\net5.0\Practicee.dll
+C:\Practicee\Practicee\obj\Debug\net5.0\ref\Practicee.dll
+C:\Practicee\Practicee\obj\Debug\net5.0\Practicee.pdb
+C:\Practicee\Practicee\obj\Debug\net5.0\Practicee.genruntimeconfig.cache

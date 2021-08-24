@@ -1,0 +1,16 @@
+C:\day4a\day4a\obj\Debug\net5.0\day4a.csproj.AssemblyReference.cache
+C:\day4a\day4a\obj\Debug\net5.0\day4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\day4a\day4a\obj\Debug\net5.0\day4a.AssemblyInfoInputs.cache
+C:\day4a\day4a\obj\Debug\net5.0\day4a.AssemblyInfo.cs
+C:\day4a\day4a\obj\Debug\net5.0\day4a.csproj.CoreCompileInputs.cache
+C:\day4a\day4a\bin\Debug\net5.0\day4a.exe
+C:\day4a\day4a\bin\Debug\net5.0\day4a.deps.json
+C:\day4a\day4a\bin\Debug\net5.0\day4a.runtimeconfig.json
+C:\day4a\day4a\bin\Debug\net5.0\day4a.runtimeconfig.dev.json
+C:\day4a\day4a\bin\Debug\net5.0\day4a.dll
+C:\day4a\day4a\bin\Debug\net5.0\ref\day4a.dll
+C:\day4a\day4a\bin\Debug\net5.0\day4a.pdb
+C:\day4a\day4a\obj\Debug\net5.0\day4a.dll
+C:\day4a\day4a\obj\Debug\net5.0\ref\day4a.dll
+C:\day4a\day4a\obj\Debug\net5.0\day4a.pdb
+C:\day4a\day4a\obj\Debug\net5.0\day4a.genruntimeconfig.cache

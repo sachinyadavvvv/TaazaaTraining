@@ -1,0 +1,16 @@
+C:\ArrayAssignment2\ArrayAssignment2\bin\Debug\net5.0\ArrayAssignment2.exe
+C:\ArrayAssignment2\ArrayAssignment2\bin\Debug\net5.0\ArrayAssignment2.deps.json
+C:\ArrayAssignment2\ArrayAssignment2\bin\Debug\net5.0\ArrayAssignment2.runtimeconfig.json
+C:\ArrayAssignment2\ArrayAssignment2\bin\Debug\net5.0\ArrayAssignment2.runtimeconfig.dev.json
+C:\ArrayAssignment2\ArrayAssignment2\bin\Debug\net5.0\ArrayAssignment2.dll
+C:\ArrayAssignment2\ArrayAssignment2\bin\Debug\net5.0\ref\ArrayAssignment2.dll
+C:\ArrayAssignment2\ArrayAssignment2\bin\Debug\net5.0\ArrayAssignment2.pdb
+C:\ArrayAssignment2\ArrayAssignment2\obj\Debug\net5.0\ArrayAssignment2.csproj.AssemblyReference.cache
+C:\ArrayAssignment2\ArrayAssignment2\obj\Debug\net5.0\ArrayAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArrayAssignment2\ArrayAssignment2\obj\Debug\net5.0\ArrayAssignment2.AssemblyInfoInputs.cache
+C:\ArrayAssignment2\ArrayAssignment2\obj\Debug\net5.0\ArrayAssignment2.AssemblyInfo.cs
+C:\ArrayAssignment2\ArrayAssignment2\obj\Debug\net5.0\ArrayAssignment2.csproj.CoreCompileInputs.cache
+C:\ArrayAssignment2\ArrayAssignment2\obj\Debug\net5.0\ArrayAssignment2.dll
+C:\ArrayAssignment2\ArrayAssignment2\obj\Debug\net5.0\ref\ArrayAssignment2.dll
+C:\ArrayAssignment2\ArrayAssignment2\obj\Debug\net5.0\ArrayAssignment2.pdb
+C:\ArrayAssignment2\ArrayAssignment2\obj\Debug\net5.0\ArrayAssignment2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\ArrayAssignment1\ArrayAssignment1\bin\Debug\net5.0\ArrayAssignment1.exe
+C:\ArrayAssignment1\ArrayAssignment1\bin\Debug\net5.0\ArrayAssignment1.deps.json
+C:\ArrayAssignment1\ArrayAssignment1\bin\Debug\net5.0\ArrayAssignment1.runtimeconfig.json
+C:\ArrayAssignment1\ArrayAssignment1\bin\Debug\net5.0\ArrayAssignment1.runtimeconfig.dev.json
+C:\ArrayAssignment1\ArrayAssignment1\bin\Debug\net5.0\ArrayAssignment1.dll
+C:\ArrayAssignment1\ArrayAssignment1\bin\Debug\net5.0\ref\ArrayAssignment1.dll
+C:\ArrayAssignment1\ArrayAssignment1\bin\Debug\net5.0\ArrayAssignment1.pdb
+C:\ArrayAssignment1\ArrayAssignment1\obj\Debug\net5.0\ArrayAssignment1.csproj.AssemblyReference.cache
+C:\ArrayAssignment1\ArrayAssignment1\obj\Debug\net5.0\ArrayAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArrayAssignment1\ArrayAssignment1\obj\Debug\net5.0\ArrayAssignment1.AssemblyInfoInputs.cache
+C:\ArrayAssignment1\ArrayAssignment1\obj\Debug\net5.0\ArrayAssignment1.AssemblyInfo.cs
+C:\ArrayAssignment1\ArrayAssignment1\obj\Debug\net5.0\ArrayAssignment1.csproj.CoreCompileInputs.cache
+C:\ArrayAssignment1\ArrayAssignment1\obj\Debug\net5.0\ArrayAssignment1.dll
+C:\ArrayAssignment1\ArrayAssignment1\obj\Debug\net5.0\ref\ArrayAssignment1.dll
+C:\ArrayAssignment1\ArrayAssignment1\obj\Debug\net5.0\ArrayAssignment1.pdb
+C:\ArrayAssignment1\ArrayAssignment1\obj\Debug\net5.0\ArrayAssignment1.genruntimeconfig.cache
